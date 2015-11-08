@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">BlueDMX</string>
-
+    <string name="bluetooth_not_available">Bluetooth Not Available</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="channelValueLabel">Value</string>
+    <string name="channelNumberLabel">Channel</string>
+    <string name="btnSetChannelLabel">Set</string>
+    <string name="btnIncrementChannelLabel">+</string>
+    <string name="btnDecrementChannelLabel">-</string>
+    <string name="eightBitDefault">000</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="cant_connect">Unable to connect</string>
+    <string name="currentConnectionLabel">Current Connection: </string>
+    <string name="btnNewConnection">New Connection</string>
+    <string name="defaultConnectionName">None</string>
 </resources>
